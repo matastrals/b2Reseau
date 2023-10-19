@@ -100,7 +100,7 @@ PS C:\Users\matas> netstat -n -b -a | Select-String 77.136.192.86 -Context 0,1
    [chrome.exe]
 ```
 
-[Capture wireshark](./ip_server_youtube.pcapng)
+[Capture wireshark](./ip_server_youtube.pcap)
 
 ☀️ **Requêtes DNS**
 
