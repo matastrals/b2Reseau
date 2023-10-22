@@ -1,10 +1,6 @@
 # TP2 : Environnement virtuel
 
-# 0. Prérequis
-
 # I. Topologie réseau
-
-## Compte-rendu
 
 ☀️ Sur **`node1.lan1.tp2`**
 
